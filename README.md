@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3 align="center" color="red" font-size="32px">A passionate frontend developer</h3>
+<h3 style="font-size: 32px; color: red;">A passionate frontend developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayredgoose" alt="rayredgoose" /></a> </p>
 
