@@ -1,5 +1,4 @@
-### Hi there 👋
-<h3 style="font-size: 32px; color: red;">A passionate frontend developer</h3>
+!Raisa Primerova](https://user-images.githubusercontent.com/48605821/217029713-ced87b38-07fc-4e8c-a205-669c300019a8.png)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayredgoose" alt="rayredgoose" /></a> </p>
 
