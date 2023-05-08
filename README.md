@@ -3,8 +3,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayredgoose&column=7&margin-w=40" alt="rayredgoose" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
---- | ---
-[![image](https://user-images.githubusercontent.com/48605821/236729131-4c8f3c25-f665-42b0-a9af-6f2313436fce.png)](https://linkedin.com/in/raisa-primerova) | [![image](https://user-images.githubusercontent.com/48605821/236729432-e406d216-0e1f-40a1-83ce-2e57f1883cee.png)](mailto:raisa.primerova@gmail.com)
+[![image](https://user-images.githubusercontent.com/48605821/236729131-4c8f3c25-f665-42b0-a9af-6f2313436fce.png)](https://linkedin.com/in/raisa-primerova) [![image](https://user-images.githubusercontent.com/48605821/236729432-e406d216-0e1f-40a1-83ce-2e57f1883cee.png)](mailto:raisa.primerova@gmail.com)
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
