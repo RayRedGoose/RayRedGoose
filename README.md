@@ -1,4 +1,4 @@
-![Raisa Primerova banner]([https://user-images.githubusercontent.com/48605821/236727060-4ac8a666-08a9-45a5-9e87-651595ee08ab.png](https://user-images.githubusercontent.com/48605821/236727783-cf69cb54-b1e4-4183-b449-350f806ea28a.pn))
+![Raisa Primerova banner](https://user-images.githubusercontent.com/48605821/236727783-cf69cb54-b1e4-4183-b449-350f806ea28a.png)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayredgoose&column=7&margin-w=40" alt="rayredgoose" /></a> </p>
 
