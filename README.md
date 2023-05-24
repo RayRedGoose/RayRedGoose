@@ -1,6 +1,6 @@
 ![Raisa Primerova's banner](https://user-images.githubusercontent.com/48605821/236731608-b324a328-d3b2-494a-9d07-61cc057c4c44.png)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayredgoose&column=7&margin-w=40" alt="rayredgoose" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayredgoose&column=8&margin-w=20" alt="rayredgoose" /></a> </p>
 
 <!--
 <h3 align="left">Connect with me:</h3>
