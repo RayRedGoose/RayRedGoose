@@ -2,6 +2,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayredgoose&column=8&margin-w=20" alt="rayredgoose" /></a> </p>
 
+## About me
+
+👨‍💻 I'm an experienced Frontend Developer with a passion for creating exceptional user experiences. With a strong focus on design systems and UI/UX, I specialize in developing highly interactive and visually appealing web applications.
+
+🚀 Throughout my career, I have successfully designed, developed, and delivered web applications using a wide range of technologies. On the frontend, I have expertise in HTML, CSS, Sass, JavaScript, React, Redux, and TypeScript. On the backend, I have worked with Node.js, Express, PostgreSQL, and Python to build robust server-side architectures.
+
+🎯 With a focus on accessibility and test-driven development, I am dedicated to creating inclusive and robust applications that provide a seamless user experience for all users. I am proficient in version control tools, CI/CD pipelines, and technical documentation.
+
+
+## My experience 
+
+🎨 Currently working as a *Design System Engineer at Workday*, I contribute to the development and implementation of Workday's Canvas Kit design system, ensuring consistency and usability across all digital products. I collaborate with cross-functional teams to implement the design system within the Workday ecosystem.
+
+🏢 As *a Frontend UX/UI Developer at NebulOS*, an early-stage startup, I designed, developed, and delivered complex web applications using the latest frontend technologies. I evaluated existing applications, reprogrammed and added new features to ensure application continuity for clients. I also developed and maintained UI components that uphold brand standards and ensure style consistency throughout the application.
+
+💼 As *a Junior Frontend Developer at TeamSnap*, I constructed and validated frontend applications using React/Redux and TypeScript. I collaborated closely with the Platform team, offering insightful feedback on API design and functionality. Operating in an Agile environment, I consistently delivered thoroughly tested product features within a 6-week sprint cycle.
+
 <!--
 <h3 align="left">Connect with me:</h3>
 ![image](https://user-images.githubusercontent.com/48605821/236729131-4c8f3c25-f665-42b0-a9af-6f2313436fce.png) ![image](https://user-images.githubusercontent.com/48605821/236729432-e406d216-0e1f-40a1-83ce-2e57f1883cee.png)
