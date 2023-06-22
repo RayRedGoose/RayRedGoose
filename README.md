@@ -1,7 +1,5 @@
 ![Raisa Primerova's banner](https://user-images.githubusercontent.com/48605821/236731608-b324a328-d3b2-494a-9d07-61cc057c4c44.png)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayredgoose&column=8&margin-w=20" alt="rayredgoose" /></a> </p>
-
 ## About me
 
 👨‍💻 I'm an experienced Frontend Developer with a passion for creating exceptional user experiences. With a strong focus on design systems and UI/UX, I specialize in developing highly interactive and visually appealing web applications.
@@ -13,11 +11,13 @@
 
 ## My experience 
 
-🎨 Currently working as a *Design System Engineer at Workday*, I contribute to the development and implementation of Workday's Canvas Kit design system, ensuring consistency and usability across all digital products. I collaborate with cross-functional teams to implement the design system within the Workday ecosystem.
+🎨 Currently working as a **Design System Engineer at Workday**, I contribute to the development and implementation of Workday's Canvas Kit design system, ensuring consistency and usability across all digital products. I collaborate with cross-functional teams to implement the design system within the Workday ecosystem.
 
-🏢 As *a Frontend UX/UI Developer at NebulOS*, an early-stage startup, I designed, developed, and delivered complex web applications using the latest frontend technologies. I evaluated existing applications, reprogrammed and added new features to ensure application continuity for clients. I also developed and maintained UI components that uphold brand standards and ensure style consistency throughout the application.
+🏢 As **a Frontend UX/UI Developer at NebulOS**, an early-stage startup, I designed, developed, and delivered complex web applications using the latest frontend technologies. I evaluated existing applications, reprogrammed and added new features to ensure application continuity for clients. I also developed and maintained UI components that uphold brand standards and ensure style consistency throughout the application.
 
-💼 As *a Junior Frontend Developer at TeamSnap*, I constructed and validated frontend applications using React/Redux and TypeScript. I collaborated closely with the Platform team, offering insightful feedback on API design and functionality. Operating in an Agile environment, I consistently delivered thoroughly tested product features within a 6-week sprint cycle.
+💼 As **a Junior Frontend Developer at TeamSnap**, I constructed and validated frontend applications using React/Redux and TypeScript. I collaborated closely with the Platform team, offering insightful feedback on API design and functionality. Operating in an Agile environment, I consistently delivered thoroughly tested product features within a 6-week sprint cycle.
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayredgoose&column=8&margin-w=20" alt="rayredgoose" /></a> </p>
 
 <!--
 <h3 align="left">Connect with me:</h3>
