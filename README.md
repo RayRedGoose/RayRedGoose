@@ -17,6 +17,8 @@
 
 💼 As **a Junior Frontend Developer at TeamSnap**, I constructed and validated frontend applications using React/Redux and TypeScript. I collaborated closely with the Platform team, offering insightful feedback on API design and functionality. Operating in an Agile environment, I consistently delivered thoroughly tested product features within a 6-week sprint cycle.
 
+---
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayredgoose&column=8&margin-w=20" alt="rayredgoose" /></a> </p>
 
 <!--
