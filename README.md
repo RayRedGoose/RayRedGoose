@@ -19,7 +19,7 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayredgoose&column=8&margin-w=20" alt="rayredgoose" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayredgoose&column=8&margin-w=10" alt="rayredgoose" /></a> </p>
 
 <!--
 <h3 align="left">Connect with me:</h3>
