@@ -13,13 +13,16 @@
 
 🎨 **Design System Engineer at Workday**
 
+
 I contribute to the development and implementation of Workday's Canvas Kit design system, ensuring consistency and usability across all digital products. I collaborate with cross-functional teams to implement the design system within the Workday ecosystem.
 
 🏢 **a Frontend UX/UI Developer at NebulOS**, an early-stage startup
 
+
 I designed, developed, and delivered complex web applications using the latest frontend technologies. I evaluated existing applications, reprogrammed and added new features to ensure application continuity for clients. I also developed and maintained UI components that uphold brand standards and ensure style consistency throughout the application.
 
 💼 **a Junior Frontend Developer at TeamSnap**
+
 
 I constructed and validated frontend applications using React/Redux and TypeScript. I collaborated closely with the Platform team, offering insightful feedback on API design and functionality. Operating in an Agile environment, I consistently delivered thoroughly tested product features within a 6-week sprint cycle.
 
