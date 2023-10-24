@@ -29,7 +29,7 @@ I constructed and validated frontend applications using React/Redux and TypeScri
 -->
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayredgoose&column=8" alt="rayredgoose" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayredgoose&column=9&margin=16" alt="rayredgoose" /></a> </p>
 
 <!--
 <h3 align="left">Connect with me:</h3>
