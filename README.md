@@ -1,5 +1,6 @@
 ![Raisa Primerova's banner](https://user-images.githubusercontent.com/48605821/236731608-b324a328-d3b2-494a-9d07-61cc057c4c44.png)
 
+<!--
 ## About me
 
 👨‍💻 I'm an experienced Frontend Developer with a passion for creating exceptional user experiences. With a strong focus on design systems and UI/UX, I specialize in developing highly interactive and visually appealing web applications.
@@ -25,7 +26,7 @@ I designed, developed, and delivered complex web applications using the latest f
 
 
 I constructed and validated frontend applications using React/Redux and TypeScript. I collaborated closely with the Platform team, offering insightful feedback on API design and functionality. Operating in an Agile environment, I consistently delivered thoroughly tested product features within a 6-week sprint cycle.
-
+-->
 ---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayredgoose&column=8" alt="rayredgoose" /></a> </p>
